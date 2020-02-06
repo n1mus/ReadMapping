@@ -25,8 +25,8 @@
     "behavior": {
         "service-mapping": {
             "url": "",
-            "name": "blank",
-            "method": "run_blank",
+            "name": "ReadMapping",
+            "method": "bwa",
             "input_mapping": [
                 {
                     "narrative_system_variable": "workspace",
